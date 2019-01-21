@@ -1,0 +1,11 @@
+{
+  "name": "example-redis-pubsub",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hwrdtm/example-redis-pubsub.git",
+  "author": "Howard <htambb@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "redis": "^2.8.0"
+  }
+}
